@@ -1,0 +1,53 @@
+@import 'global';
+@import 'reset.scss';
+
+.header {
+    &__inner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 120px;
+    }
+    &__btn {
+        background-color: transparent;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+    }
+}
+
+.logo {
+    margin: 0 auto;
+}
+
+.menu {
+    padding-right: 15px;
+    &__list {
+        display: flex;
+    }
+    &__listItem {
+        padding-left: 35px;
+        padding-right: 45px;
+    }
+    &__listIink {
+        font-family: 'Open Sans', sans-serif;
+        color: rgba(54, 56, 56, 0.9);
+        font-weight: 600;
+        font-size: 21px;
+        line-height: 22px;
+    }
+    &__list-link--active {
+        padding-bottom: 4px;
+        position: relative;
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            border-radius: 1px;
+            // background-color: rgba($title, .7);
+        }
+    }
+}
