@@ -6,6 +6,7 @@ import Slider from "../components/home/slider/Slider";
 import NewCollection from "../components/home/newCollection/NewCollection";
 import Decor from "../components/home/decor/Decor";
 import WorksPath from "../components/home/worksPath/WorksPath";
+import Gallery from "../components/home/gallery/Gallery";
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <NewCollection />
       <Decor />
       <WorksPath />
+      <Gallery />
       <Footer />
     </div>
   );
