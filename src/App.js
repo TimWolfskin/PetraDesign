@@ -1,14 +1,12 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import About from './pages/About'
-import Blog from './pages/Blog'
-import Contact from './pages/Contact'
-import Gallery from './pages/Gallery'
-import Home from './pages/Home'
-
+import "./App.css";
+import About from "./pages/About";
+import Blog from "./pages/Blog";
+import Contact from "./pages/Contact";
+import Gallery from "./pages/Gallery";
+import Home from "./pages/Home";
 
 function App() {
-
-
   const router = createBrowserRouter([
     {
       path: "/",

@@ -1,13 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import styles from "../../styles/Header.module.scss";
+import global from "../../styles/global.module.scss";
 import LOGO from "../../media/logo.svg";
 
 const Header = () => {
   return (
     <header className={styles.header}>
       <div className={styles.header}>
-        <div className={styles.container}>
+        <div className={global.container}>
           <div className={styles.header__inner}>
             <nav className={styles.menu}>
               <ul className={styles.menu__list}>

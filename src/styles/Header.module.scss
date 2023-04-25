@@ -1,12 +1,19 @@
-@import 'global';
+// @import 'global';
 @import 'reset.scss';
 
 .header {
+    background-color: #fff;
+    padding: 10px 0;
+    // height: 120px;
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    width: 100%;
     &__inner {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        height: 120px;
+
     }
     &__btn {
         background-color: transparent;
