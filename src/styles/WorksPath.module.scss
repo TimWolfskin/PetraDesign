@@ -1,0 +1,70 @@
+@import 'reset.scss';
+@import 'vars.scss';
+
+
+.worksPath {
+    padding: 80px 0 30px;
+    &__title {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+        text-align: center;
+        color: $title;
+        margin-bottom: 40px;
+        font-size: 36px;
+        line-height: 51px;
+    }
+    &__itemsBox {
+        display: flex;
+        align-items: flex-end;
+        border-bottom: 2px solid rgba($title, .7);
+        position: relative;
+        &::before {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: $title;
+        }
+    }
+    &__itemProduction {
+        margin-left: 317px;
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            height: 20px;
+            width: 2px;
+            background: rgba($title, .7);
+        }
+    }
+    &__itemConsultation,
+    &__itemProduction {
+        padding-bottom: 38px;
+    }
+    &__item--measuring {
+        padding-top: 38px;
+        margin-left: 305px;
+        &::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 20px;
+            width: 2px;
+            background: rgba($title, .7);
+        }
+    }
+    &__itemTitle {
+        margin-left: 13px;
+        color: $title;
+        font-weight: 700;
+        font-family: 'Open Sans', sans-serif;
+    }
+    &__itemText {
+        margin-top: 13px;
+    }
+}

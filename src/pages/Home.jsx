@@ -5,6 +5,7 @@ import global from "../styles/global.module.scss";
 import Slider from "../components/home/slider/Slider";
 import NewCollection from "../components/home/newCollection/NewCollection";
 import Decor from "../components/home/decor/Decor";
+import WorksPath from "../components/home/worksPath/WorksPath";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Slider />
       <NewCollection />
       <Decor />
+      <WorksPath />
       <Footer />
     </div>
   );
