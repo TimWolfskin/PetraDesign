@@ -1,6 +1,6 @@
 import React from "react";
-import styles from "../../styles/NewCollection.module.scss";
-import { newCollection } from "../../staticData/data";
+import styles from "../../../styles/NewCollection.module.scss";
+import { newCollection } from "../../../staticData/data";
 
 const NewCollection = () => {
   return (
