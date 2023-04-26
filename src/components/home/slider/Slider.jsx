@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { BsChevronCompactLeft, BsChevronCompactRight } from "react-icons/bs";
-import styles from "../../../styles/Slider.module.scss";
+import styles from "../../../styles/home/Slider.module.scss";
 
 const Slider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);

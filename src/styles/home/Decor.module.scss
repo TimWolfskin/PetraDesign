@@ -1,9 +1,9 @@
-@import 'reset.scss';
-@import 'vars.scss';
+@import '../reset.scss';
+@import '../vars.scss';
 
 .decor {
     padding: 170px 0 155px;
-    background-image: url('../media/decor-bg.jpg');
+    background-image: url('../../media/decor-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;

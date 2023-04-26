@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../../styles/WorksPath.module.scss";
+import styles from "../../../styles/home/WorksPath.module.scss";
 import global from "../../../styles/global.module.scss";
 import PATHIMAGEONE from '../../../media/works-path-img-1.svg'
 import PATHIMAGETWO from '../../../media/works-path-img-2.svg'

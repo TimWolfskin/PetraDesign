@@ -1,7 +1,8 @@
 import React from "react";
+import global from "../styles/global.module.scss";
+
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
-import global from "../styles/global.module.scss";
 import Slider from "../components/home/slider/Slider";
 import NewCollection from "../components/home/newCollection/NewCollection";
 import Decor from "../components/home/decor/Decor";

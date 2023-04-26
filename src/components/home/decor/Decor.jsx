@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../../styles/Decor.module.scss";
+import styles from "../../../styles/home/Decor.module.scss";
 import global from "../../../styles/global.module.scss";
 
 const Decor = () => {

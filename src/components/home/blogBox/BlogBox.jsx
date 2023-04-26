@@ -1,6 +1,6 @@
 import React from "react";
 import { blogBoxData } from "../../../staticData/data";
-import styles from "../../../styles/BlogBox.module.scss";
+import styles from "../../../styles/home/BlogBox.module.scss";
 import global from "../../../styles/global.module.scss";
 
 const BlogBox = () => {
