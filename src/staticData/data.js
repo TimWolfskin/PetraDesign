@@ -173,3 +173,23 @@ export const newCollection = [
       image: 'https://assets.pbimgs.com/pbimgs/ab/images/dp/wcm/202307/0012/lorraine-tufted-chair-c.jpg'
     },
   ]
+
+
+  export const blogBoxData = [
+    {
+      id: 1,
+      image: 'https://www.decoraid.com/wp-content/uploads/2021/04/modern-urban-interior-design-scaled.jpeg',
+      date: 'March 12, 2020',
+      author: 'Ann Summers',
+      theme: 'Inrerior',
+      title: 'Listicle actually selvage activated charcoal for the drinking vinegar '
+    },
+    {
+      id: 2,
+      image: 'https://prideventures.in/wp-content/uploads/2020/12/blog-post-interior.jpg',
+      date: 'eptember 28,2020',
+      author: 'Finnagan Morningstar',
+      theme: 'Dining room interior',
+      title: 'Red selfies edison bulb four dollar toast humblebrag'
+    }
+  ]

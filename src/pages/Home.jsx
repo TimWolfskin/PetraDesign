@@ -7,6 +7,7 @@ import NewCollection from "../components/home/newCollection/NewCollection";
 import Decor from "../components/home/decor/Decor";
 import WorksPath from "../components/home/worksPath/WorksPath";
 import Gallery from "../components/home/gallery/Gallery";
+import BlogBox from "../components/home/blogBox/BlogBox";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <Decor />
       <WorksPath />
       <Gallery />
+      <BlogBox />
       <Footer />
     </div>
   );
