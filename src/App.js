@@ -3,7 +3,7 @@ import "./App.css";
 import About from "./pages/About";
 import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
-import Gallery from "./pages/Gallery";
+import GalleryPage from "./pages/GalleryPage";
 import Home from "./pages/Home";
 
 function App() {
@@ -21,8 +21,8 @@ function App() {
       element: <Contact />,
     },
     {
-      path: "/gallery",
-      element: <Gallery />,
+      path: "/galleryPage",
+      element: <GalleryPage />,
     },
     {
       path: "/blog",

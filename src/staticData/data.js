@@ -42,7 +42,8 @@ export const newCollection = [
     {
       id: 1,
       title: 'Bedroom furniture',
-      image: 'https://m.media-amazon.com/images/I/81hHYO8oOGL._SL1500_.jpg'
+      image: 'https://m.media-amazon.com/images/I/81hHYO8oOGL._SL1500_.jpg',
+      large: 'https://m.media-amazon.com/images/I/81hHYO8oOGL._SL1500_.jpg'
     },
     {
       id: 2,

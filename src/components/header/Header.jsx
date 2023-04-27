@@ -18,7 +18,7 @@ const Header = () => {
                   </Link>
                 </li>
                 <li className={styles.menu__listItem}>
-                  <Link className={styles.menu__listIink} to="gallery">
+                  <Link className={styles.menu__listIink} to="/galleryPage">
                     Gallery
                   </Link>
                 </li>
