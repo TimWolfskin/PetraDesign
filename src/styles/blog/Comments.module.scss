@@ -1,0 +1,49 @@
+@import '../reset.scss';
+@import '../vars.scss';
+
+.blogOne {
+    &__commentsTitle {
+        color: $title;
+        font-family: 'Open Sans', sans-serif;
+        line-height: 31px;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    &__commentsItem {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 40px;
+    }
+
+    &__commentsAvatar {
+        width: 64px;
+        height: 54px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin-right: 13px;
+    }
+
+    &__reply {
+        background-color: transparent;
+        margin-left: 5px;
+        border: none;
+        padding: 0;
+        font-size: 14px;
+        font-weight: 600;
+        color: #707070;
+    }
+
+    &__commentsName {
+        color: $title;
+        font-family: 'Open Sans', sans-serif;
+        line-height: 23px;
+    }
+
+    &__commentsDate {
+        margin-bottom: 10px;
+        font-size: 14px;
+        color: #A1A1A1;
+    }
+}
