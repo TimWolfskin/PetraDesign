@@ -567,3 +567,163 @@ export const postData = [
     tags4: "Chair",
   },
 ];
+
+
+
+
+export const contactsSliderData = [
+  {
+    id: 1,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 2,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 3,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 4,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 5,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 6,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 7,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 8,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 9,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 10,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+
+
+  {
+    id: 11,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 12,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 13,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 14,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 15,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 16,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 17,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 18,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 19,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 20,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+
+
+  {
+    id: 21,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 22,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 23,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 24,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 25,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 26,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 27,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 28,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 29,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+  {
+    id: 30,
+    image: "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    title: "Truffaut literally trust"
+  },
+]
