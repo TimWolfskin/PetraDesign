@@ -547,6 +547,10 @@ export const mainGalleryData = [
   },
 ];
 
+
+
+
+
 export const postData = [
   {
     id: 1,
@@ -566,7 +570,266 @@ export const postData = [
     tags3: "Dining room futniture",
     tags4: "Chair",
   },
+  {
+    id: 2,
+    image:
+      "https://prideventures.in/wp-content/uploads/2020/12/blog-post-interior.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 3,
+    image:
+      "https://images.hindustantimes.com/img/2022/12/28/550x309/pickawood-GN9JhLPw3ow-unsplash_1672219528980_1672219559379_1672219559379.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 4,
+    image:
+      "https://media.houseandgarden.co.uk/photos/624f1893bc1fdfaa836de2ec/16:9/w_2560%2Cc_limit/Lucy_Cunningham-31.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 5,
+    image:
+      "https://www.sbid.org/wp-content/uploads/2021/09/SWS-Group-2.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 6,
+    image:
+      "https://stories.site/woodenstreetfurniture/interior-design-ideas-of-2022/assets/1.jpeg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 7,
+    image:
+      "https://prideventures.in/wp-content/uploads/2020/12/blog-post-interior.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 8,
+    image:
+      "https://avalancheranch.com/wp-content/uploads/2013/05/Avalanche_Ranch_68.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 9,
+    image:
+      "https://d12mivgeuoigbq.cloudfront.net/assets/blog/Great%20American%20Home%20Store/GreatAmericanHomeStore-seotool-56787-ImportantInteriorDesign-BlogBanner1.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 10,
+    image:
+      "https://americanbutler.ru/uploads/images/useful/lifestyle/interiors/american-style-interior-06.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 11,
+    image:
+      "https://americanbutler.ru/uploads/images/useful/lifestyle/interiors/american-style-interior-02.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 12,
+    image:
+      "https://cdn.w600.comps.canstockphoto.com/bright-living-room-interior-in-american-pictures_csp38868685.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 13,
+    image:
+      "https://assets.vogue.com/photos/609ecf8b6228981928ccf09f/master/w_2560%2Cc_limit/02--0514-VO-WELL56.02.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 14,
+    image:
+      "https://www.kandhdesign.co.uk/wp-content/uploads/2019/05/KH-Design_Home_Study-1200x550.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
+  {
+    id: 15,
+    image:
+      "https://www.hometipsor.com/wp-content/uploads/2015/02/American-Patriotic-Interior-Design-Style-2.jpg",
+    date: "August 15, 2020",
+    author: "Ann Summers",
+    theme: "Bedroom Furniture",
+    title:
+      "Red selfies edison bulb four dollar toast humblebrag for the  furniture",
+    text1:
+      "Everyday carry actually neutra authentic kogi shabby chic migas small batch craft beer. Literally williamsburg tote bag farm-to-table mustache ugh deep v irony. Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    text2:
+      "Af man bun copper mug iPhone enamel pin pug selvage hammock palo santo godard thundercats coloring book yuccie woke. Ugh pok pok taxidermy pabst enamel pin edison bulb farm-to-table. Yuccie portland kickstarter, readymade ramps humblebrag ennui banjo mumblecore vaporware pickled cray stumptown 8-bit mlkshk. Tumeric tousled austin, kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche. Tousled yr williamsburg austin edison bulb cloud bread vegan street art. Locavore food truck trust fund palo santo asymmetrical, franzen deep v marfa kogi whatever swag pop-up seitan.",
+    tags1: "Bedroom furniture",
+    tags2: "Office furniture",
+    tags3: "Dining room futniture",
+    tags4: "Chair",
+  },
 ];
+
+
+
+
+
+
+
 
 
 
@@ -727,3 +990,235 @@ export const contactsSliderData = [
     title: "Truffaut literally trust"
   },
 ]
+
+
+
+
+
+// export const postItems = [
+//   {
+//     id: 1,
+//     image:
+//       "https://www.miamiandbeaches.com/getmedia/460de76a-147f-492e-abdc-926d4a8e0c61/Oleta_State_River_Park_Ecoadventure_1-06-21.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Canoeing, kayaking and rafting",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 2,
+//     image:
+//       "https://images.hindustantimes.com/img/2022/12/28/550x309/pickawood-GN9JhLPw3ow-unsplash_1672219528980_1672219559379_1672219559379.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Hiking and camping",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 3,
+//     image:
+//       "https://prideventures.in/wp-content/uploads/2020/12/blog-post-interior.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Hiking and camping",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//    text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//    tags1: "Bedroom furniture",
+//    tags2: "Office furniture",
+//    tags3: "Dining room futniture",
+//    tags4: "Chair",
+//   },
+//   {
+//     id: 4,
+//     image:
+//       "https://lizcaan.com/app/uploads/2020/04/Liz-Caan-low-rez-001-2000x1600-1.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Hiking and camping",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 5,
+//     image:
+//       "https://cdn.makitatools.com/apps/wms/products/outdooradventure/getoutside_pic.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Hunting and fishing",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 6,
+//     image:
+//       "https://cdn.homedsgn.com/wp-content/uploads/2016/05/Modern-Home-Interior-12.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Hunting and fishing",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 7,
+//     image:
+//       "https://i.ytimg.com/vi/1wtjyv1lmKc/maxresdefault.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Hunting and fishing",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 8,
+//     image:
+//       "https://hips.hearstapps.com/hmg-prod/images/minimalist-living-room-design-1556129093.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Rock Climbing",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 9,
+//     image:
+//       "https://media.designcafe.com/wp-content/uploads/2020/04/23191313/patterned-classic-blue-rug-living-room.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Rock Climbing",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 10,
+//     image:
+//       "https://cdn.home-designing.com/wp-content/uploads/2022/03/round-rug-4.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Rock Climbing",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 11,
+//     image:
+//       "https://aleksandrajhannah.com/wp-content/uploads/2022/08/interior-design-modern-livingroom.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Photography",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 12,
+//     image:
+//       "https://media.designcafe.com/wp-content/uploads/2021/05/24171523/indian-traditional-white-minimalist-living-room.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Photography",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 13,
+//     image:
+//       "https://www.miamiandbeaches.com/getmedia/460de76a-147f-492e-abdc-926d4a8e0c61/Oleta_State_River_Park_Ecoadventure_1-06-21.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Photography",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 14,
+//     image:
+//       "https://www.miamiandbeaches.com/getmedia/460de76a-147f-492e-abdc-926d4a8e0c61/Oleta_State_River_Park_Ecoadventure_1-06-21.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Canoeing, kayaking and rafting",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+//   {
+//     id: 15,
+//     image:
+//       "https://www.miamiandbeaches.com/getmedia/460de76a-147f-492e-abdc-926d4a8e0c61/Oleta_State_River_Park_Ecoadventure_1-06-21.jpg",
+//     date: "August 15, 2020",
+//     author: "Ann Summers",
+//     theme: "Canoeing, kayaking and rafting",
+//     title:
+//       "Red selfies edison bulb four dollar toast humblebrag for the furniture",
+//     text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam  dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum fugit vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex, architecto? Voluptates ut sunt, quas sint ratione, aspernatur totam     dolor molestias aliquam optio veritatis ea assumenda! Quidem atque illum",
+//     tags1: "Bedroom furniture",
+//     tags2: "Office furniture",
+//     tags3: "Dining room futniture",
+//     tags4: "Chair",
+//   },
+// ];

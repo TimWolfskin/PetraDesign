@@ -42,6 +42,10 @@
         margin-bottom: 36px;
     }
 
+    &__image {
+        color: $title;
+    }
+
     &__categoryTitle,
     &__tagsTitle {
         margin-bottom: 16px;
@@ -109,19 +113,23 @@
 
 .recentPosts {
     margin-bottom: 40px;
+
     &__title {
         margin-bottom: 24px;
         color: $title;
         font-family: 'Open Sans', sans-serif;
         line-height: 23px;
     }
+
     &__item {
         margin-bottom: 11px;
     }
+
     &__itemTitle {
         display: block;
         color: inherit;
     }
+
     &__date,
     &__author {
         color: #A1A1A1;
